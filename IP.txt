@@ -3,3 +3,5 @@ ping uzum.uz-138.249.145.7
 ipconfig-
 IPv4 (192.168.1.25)
 static-ozgermeytugin(qatip qalgan)
+my ip-84.54.73.219 
+ozgeris
